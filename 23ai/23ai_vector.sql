@@ -131,7 +131,7 @@ VALUES
     NULL, 'Mark Waters'),
 
 (6, 'Step Brothers', 'Comedy', 2008, 98,  
-    'Step Brothers is a raucous comedy about two middle-aged, spoiled men who are forced to live together when their single parents marry. Brennan and Dale, played by Will Ferrell and John C. Reilly, initially despise each other, but eventually bond over their shared immaturity and love of absurd activities. The film is full of outrageous humor, ridiculous situations, and over-the-top performances. It explores themes of family, friendship, and the challenges of growing up—albeit in the most hilarious and unconventional ways. Step Brothers is known for its memorable one-liners and its unique brand of comedy that pushes the boundaries of good taste.', 
+    'Step Brothers is a raucous comedy about two middle-aged, spoiled men who are forced to live together when their single parents marry. Brennan and Dale, played by Will Ferrell and John C. Reilly, initially despise each other, but eventually bond over their shared immaturity and love of absurd activities. The film is full of outrageous humor, ridiculous situations, and over-the-top performances. It explores themes of family, friendship, and the challenges of growing upÂ—albeit in the most hilarious and unconventional ways. Step Brothers is known for its memorable one-liners and its unique brand of comedy that pushes the boundaries of good taste.', 
     NULL, 'Adam McKay'),
 
 (7, 'Anchorman', 'Comedy', 2004, 94,  
